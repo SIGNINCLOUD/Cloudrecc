@@ -1,4 +1,4 @@
-# # desktop-tutorial — Music & Art
+#virtual world — Music & Art
 
 A small repository to demonstrate using GitHub Desktop and to share the author's music and art projects.
 
